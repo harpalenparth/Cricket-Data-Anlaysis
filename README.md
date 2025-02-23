@@ -43,10 +43,6 @@ This project involves a comprehensive analysis of cricket data, utilizing statis
 - Visualization: PowerBI (publicly deployed)
 - Tools: Jupyter Notebook, PowerBI
 
-# Link To Dashboard
-
-https://app.powerbi.com/groups/me/reports/ff3f2d50-e3f2-4605-a80b-4c890656bc75/ReportSection3a8cb23b814911c94608?experience=power-bi
-
 # Dashboard Visuals
 
 ![Top Performing Players](Dashboard.png)
